@@ -25,3 +25,9 @@ Here are some resources that were helpful during the development of this project
 * [Vite Documentation](https://vitejs.dev/guide/)
 * [Styled Components Documentation](https://styled-components.com/docs)
 * [React Toastify Documentation](https://fkhadra.github.io/react-toastify/introduction)
+
+# Future Work
+
+* Simplify functions into different files
+* Add sounds and notifications
+* Save workouts so you don't have to fill them out again
